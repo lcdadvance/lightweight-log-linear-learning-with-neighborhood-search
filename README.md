@@ -1,1 +1,1 @@
-# lightweight-log-linear-learning-with-neighborhood-search
+# lightweight log-linear learning with neighborhood search
